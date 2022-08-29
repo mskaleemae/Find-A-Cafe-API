@@ -1,0 +1,169 @@
+{
+    "cafes": [
+        {
+            "id": 0,
+            "name": "REMI Flower & Coffee",
+            "street": "906 2nd Ave",
+            "postal_code":"10017",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "phone": "6465598962",
+            "description": "Custom floral arrangements & decorative plants, plus lattes & pastries, offered in a cozy space."
+        },
+        {
+            "id": 1,
+            "name": "Blank Slate Coffee",
+            "street": "121 Madison Ave #5",
+            "postal_code":"10016",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "phone": "2126837593",
+            "description": "Modern, petite counter-order spot for coffee, breakfast bites & sandwiches, plus beer & wine."
+        },
+        {
+            "id": 2,
+            "name": "Curiosity Coffee Bar",
+            "street": "2327 Main St",
+            "postal_code":"29201",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "country": "United States",
+            "phone": "8033576985",
+            "description": "Located in the heart of the city, Curiosity Coffee Bar is a coffee bar that encourages learning and "
+        },
+        {
+            "id": 3,
+            "name": "Cool Beans Coffee",
+            "street": "123 Towstead Ave",
+            "postal_code":"29201",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "country": "United States",
+            "phone": "8039542932",
+            "description": "Here at Cool Beans we offer a wide variety of coffee selections specially crafted by our professionally trained baristas. We also serve breakfast pastries at an affortable price."
+        },
+        {
+            "id": 4,
+            "name": "Studio 95",
+            "street": "Alexander Street",
+            "postal_code":"27587",
+            "city": "Greenville",
+            "state": "North Carolina",
+            "country": "United States",
+            "phone": "9847831259",
+            "description": "Serving the best coffee in North Carolina since 1898."
+        },
+        {
+            "id": 5,
+            "name": "Just Brewing",
+            "street": "Thurloe Street",
+            "postal_code":"30305",
+            "city": "Atlanta",
+            "state": "Georiga",
+            "country": "United States",
+            "phone": "4049542932",
+            "description": "Sit back and relax with one of our famous cold brews that will surley help kick off your day."
+        },
+        {
+            "id": 6,
+            "name": "Rise n' Shine",
+            "street": "Golden Trout Way",
+            "postal_code":"30305",
+            "city": "Atlanta",
+            "state": "Georiga",
+            "country": "United States",
+            "phone": "4049076348",
+            "description": "Selling amazing bagels and great coffee. "
+        },
+        {
+            "id": 7,
+            "name": "Clearwater Coffee",
+            "street": "248 Watersedge Road",
+            "postal_code":"73301",
+            "city": "Clearwater",
+            "state": "Texas",
+            "country": "United States",
+            "phone": "9037568315",
+            "description": "Selling classic coffees with a hint of hometown flavor since 1993."
+        },
+        {
+            "id": 8,
+            "name": "The Good Life",
+            "street": "311 Beckenham Lane",
+            "postal_code":"73301",
+            "city": "Colorado Springs,",
+            "state": "Colorado",
+            "country": "United States",
+            "phone": "7192123119",
+            "description": "A trendy cafe with retro feel."
+        },
+        {
+            "id": 9,
+            "name": "Honey Bee Coffee & Co.",
+            "street": "173 Arlington Avenue",
+            "postal_code":"32080",
+            "city": "St. Augustine",
+            "state": "Florida",
+            "country": "United States",
+            "phone": "9041298745",
+            "description": "A cute a cozy space for all to enjoy our coffees and pastries in a bright yellow honey bee inspired cafe."
+        },
+        {
+            "id": 10,
+            "name": "Caffe Streets",
+            "street": "1750 W Division St",
+            "postal_code":"60622",
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States",
+            "phone": "7732856512",
+            "description": "Here at 'Caffe Streets' our mission is to provide a friendly, comfortable atmosphere where the customer can receive quality food, service and entertainment at a reasonable price."
+        },
+        {
+            "id": 11,
+            "name": "Upper Left",
+            "street": "1204 SE Clay St",
+            "postal_code":"97214",
+            "city": "Portland",
+            "state": "Orgeon",
+            "country": "United States",
+            "phone": "5036974142",
+            "description": "Airy hangout with a seasonal patio offering house-roasted, single-origin coffee & sandwiches."
+        },
+        {
+            "id": 12,
+            "name": "The Office",
+            "street": "190 400 W",
+            "postal_code":"43016",
+            "city": "Columbus",
+            "state": "Ohio",
+            "country": "United States",
+            "phone": "6141721291",
+            "description": "Named and centered after the hit tv show, 'The Office' is a cafe shop that sells amazing lattes and is a great hang out spot."
+        },
+        {
+            "id": 13,
+            "name": "Bright Colors",
+            "street": "500 S Main St",
+            "postal_code":"84044",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "country": "United States",
+            "phone": "8014234387",
+            "description": "We are not judt known for having a asethically pleasing cafe and selling amazing cold brews. We are also an art studio, where are customers can choose to paint any medium and enjoy drinking one of our amazing coffees."
+        },
+        {
+            "id": 14,
+            "name": "Headspace",
+            "street": "162 Afton St",
+            "postal_code":"15004",
+            "city": "Atlasburg",
+            "state": "Pennsylvania",
+            "country": "United States",
+            "phone": "7249802019",
+            "description": "Looking for a chill hangout spot or a place to relax and study? Well then head over to Headspace. Located between Heart Street and Bakers Ave, we offer a wide variety of coffee options. Are specialtie is the 'WakeUp Hit', which is our iced americano with three espresso shots and a hint of vanilla."
+        }
+    ]
+}
